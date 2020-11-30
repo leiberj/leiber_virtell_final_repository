@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+            <file>file:/D:/FALL%202020/ECE%20414/leiber_virtell_ece414_lab/leiber_virtell_final/button_tempo.X/main.c</file>
+            <file>file:/D:/FALL%202020/ECE%20414/leiber_virtell_ece414_lab/leiber_virtell_final/button_tempo.X/button_tempo_controller.c</file>
+            <file>file:/D:/FALL%202020/ECE%20414/leiber_virtell_ece414_lab/leiber_virtell_final/button_tempo.X/button_tempo_controller.h</file>
+            <file>file:/D:/FALL%202020/ECE%20414/leiber_virtell_ece414_lab/leiber_virtell_final/button_tempo.X/TouchScreen.c</file>
+            <file>file:/D:/FALL%202020/ECE%20414/leiber_virtell_ece414_lab/leiber_virtell_final/button_tempo.X/TouchScreen.h</file>
+=======
+>>>>>>> Stashed changes
+            <file>file:/D:/ECE%20414/button_tempo.X/screen_debouncer.c</file>
+            <file>file:/D:/ECE%20414/button_tempo.X/ztimer.c</file>
+            <file>file:/D:/ECE%20414/button_tempo.X/debouncer_tempo.h</file>
+            <file>file:/D:/ECE%20414/button_tempo.X/button_tempo_controller.c</file>
+            <file>file:/D:/ECE%20414/button_tempo.X/main.c</file>
+            <file>file:/D:/ECE%20414/button_tempo.X/button_control.c</file>
+            <file>file:/D:/ECE%20414/button_tempo.X/button_tempo_controller.h</file>
+            <file>file:/D:/ECE%20414/button_tempo.X/debouncer_tempo.c</file>
+<<<<<<< Updated upstream
+=======
+>>>>>>> 1999389e80eb597938e2d55401f4daa4b1dfd22b
+>>>>>>> Stashed changes
+        </group>
+    </open-files>
+</project-private>
